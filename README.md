@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **DSA,NodeJS,ExpressJS,MongoDB**
+- 🌱 I’m currently learning **DSA , NodeJS , ExpressJS , MongoDB**
 
-- 💬 Ask me about **C++,HTML,CSS,JS,REACTJS**
+- 💬 Ask me about **C++ , HTML , CSS , JS , REACTJS**
 
 - 📫 How to reach me **shashwatgupta21054@gmail.com**
 
