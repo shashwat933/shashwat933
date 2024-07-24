@@ -7,9 +7,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning **DSA , NodeJS , ExpressJS , MongoDB**
+- 🌱 I’m currently learning **DSA , TYPESCRIPT**
 
-- 💬 Ask me about **C++ , HTML , CSS , JS , REACTJS**
+- 💬 Ask me about **C++ , HTML , CSS , JS , REACTJS,NodeJS , ExpressJS , MongoDB , React Native**
 
 - 📫 How to reach me **shashwatgupta21054@gmail.com**
 
